@@ -2,6 +2,10 @@
 
 > SVG × Vue.js (Nuxt.js)
 
+![step1](./static/ss-step1.png)
+
+![step9](./static/ss-step9.png)
+
 ## contents
 
 | Step | 簡易説明                                         | Demo          | Code          |
