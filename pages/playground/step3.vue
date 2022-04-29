@@ -92,7 +92,7 @@ export default {
 
 <style>
 body {
-  background-color: #f8fafd;
+  background-color: #eeeff2;
 }
 
 #canvas {
